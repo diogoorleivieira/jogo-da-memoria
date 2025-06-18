@@ -1,4 +1,4 @@
-# jogo-da-memoria
+# jogo-da-memoria- festejando a conexão campo e cidade
 jogo onde você deve achar as imagens iguais
 
 como jogar: você vai preisar usar a tecla esquerda do mause, e ir abrindo imagem por imagem até achar os pares.
